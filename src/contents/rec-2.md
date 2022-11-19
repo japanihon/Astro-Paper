@@ -1,17 +1,15 @@
 ---
-title: My recent article 2
-author: Sat Naing
-datetime: 2022-06-06T04:06:31Z
-slug: my-recent-2
-featured: false
-draft: true
+author: Andres R
+datetime: 2022-09-23T04:58:53Z
+title: Algun Post Nuevo
+slug: algun-post-nuevo-5
+featured: true
+draft: false
 tags:
-  - TypeScript
-  - Astro
-description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  - configuration
+  - docs
+ogImage: ""
+description: Algun contenido Nuevo 5
 ---
 
 My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.

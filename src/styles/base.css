@@ -4,7 +4,7 @@
 
 @layer base {
   :root {
-    --color-fill: 251, 254, 251;
+    --color-fill: 213, 216, 220;
     --color-text-base: 40, 39, 40;
     --color-accent: 0, 108, 172;
     --color-card: 230, 230, 230;
@@ -12,13 +12,22 @@
     --color-border: 236, 233, 233;
   }
   .theme-dark {
-    --color-fill: 47, 55, 65;
+    --color-fill: 245, 183, 177;
     --color-text-base: 230, 230, 230;
     --color-accent: 26, 217, 217;
     --color-card: 63, 75, 90;
     --color-card-muted: 89, 107, 129;
     --color-border: 59, 70, 85;
   }
+  .own-color {
+    --color-fill: 147, 55, 65;
+    --color-text-base: 230, 230, 230;
+    --color-accent: 26, 217, 217;
+    --color-card: 63, 75, 90;
+    --color-card-muted: 89, 107, 129;
+    --color-border: 59, 70, 85;
+  }
+
   #sun-svg,
   .theme-dark #moon-svg {
     display: none;

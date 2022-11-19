@@ -1,18 +1,15 @@
 ---
-title: How Do I Develop My Portfolio Website & Blog
-author: Sat Naing
-datetime: 2022-03-25T16:55:12.000+00:00
-slug: how-do-i-develop-my-portfolio-and-blog
-featured: false
+author: Andres R
+datetime: 2022-09-23T04:58:53Z
+title: Algun Post Nuevo
+slug: algun-post-nuevo-3
+featured: true
 draft: false
 tags:
-  - NextJS
-  - TailwindCSS
-  - HeadlessCMS
-  - Blog
-description:
-  "EXAMPLE POST: My experience about developing my first portfolio website and a blog
-  using NextJS and a headless CMS."
+  - configuration
+  - docs
+ogImage: ""
+description: Algun contenido Nuevo 3
 ---
 
 > This article is originally from my [blog post](https://satnaing.dev/blog/posts/how-do-i-develop-my-portfolio-and-blog). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.

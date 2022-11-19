@@ -1,13 +1,15 @@
 ---
-title: Tailwind Typography Plugin
-author: Sat Naing
-datetime: 2022-07-05T02:05:51Z
-featured: false
+author: Andres R
+datetime: 2022-09-23T04:58:53Z
+title: Algun Post Nuevo
+slug: algun-post-nuevo-6
+featured: true
 draft: false
 tags:
-  - TypeScript
-  - Astro
-description: "EXAMPLE POST: About Tailwind Typography Plugin and how you can use it effectively."
+  - configuration
+  - docs
+ogImage: ""
+description: Algun contenido Nuevo 6
 ---
 
 > This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.

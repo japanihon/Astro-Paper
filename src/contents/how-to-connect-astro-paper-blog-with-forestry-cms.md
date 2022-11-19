@@ -1,18 +1,15 @@
 ---
-title: How to connect AstroPaper blog with Forestry CMS
-author: Sat Naing
-datetime: 2022-09-21T05:17:19Z
-slug: how-to-connect-astro-paper-blog-with-forestry-cms
+author: Andres R
+datetime: 2022-10-14T04:58:53Z
+title: Algun Post Nuevo
+slug: algun-post-nuevo-2
 featured: true
 draft: false
 tags:
+  - configuration
   - docs
-  - forestry-cms
-  - astro-paper
-ogImage: https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
-description:
-  Step by step process of connecting Astro-Paper blog theme with Forestry
-  Headless CMS.
+ogImage: ""
+description: Algun contenido Nuevo 2
 ---
 
 In this article, I will explain step by step process of connecting AstroPaper theme with the Forestry headless CMS. So, let's get started 🎉

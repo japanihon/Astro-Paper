@@ -1,19 +1,15 @@
 ---
-author: Sat Naing
+author: Andres R
 datetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
+title: Viajando por el mundo
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
 tags:
-  - docs
+  - docs - travel -
 ogImage: ""
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: Algunas anecdotas de viaje
 ---
-
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
 ## Table of contents
 

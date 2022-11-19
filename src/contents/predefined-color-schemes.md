@@ -1,16 +1,15 @@
 ---
-author: Sat Naing
-datetime: 2022-09-26T12:13:24Z
-title: Predefined color schemes
-slug: predefined-color-schemes
-featured: false
+author: Andres R
+datetime: 2022-09-23T04:58:53Z
+title: Algun Post Nuevo
+slug: algun-post-nuevo-4
+featured: true
 draft: false
 tags:
-  - color-schemes
+  - configuration
+  - docs
 ogImage: ""
-description:
-  Some of the well-crafted, predefined color schemes for AstroPaper blog
-  theme.
+description: Algun contenido Nuevo 4
 ---
 
 I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
